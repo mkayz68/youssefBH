@@ -1,0 +1,24 @@
+les installations wordpress et oxygen ne doivent pas etre commit.
+
+le dossier admin, est un dossier core, si on change le nom sa pourrait causer des problemes
+    solution: plugin ( WPS Hide Login ) ---> a apprendre a utiliser
+
+HTML specs
+
+    Page Type: Homepage
+
+    Menu Navigation:
+        Menu Items: "Nos réalisations", "Contact"
+
+    Two Different Pages:
+        One for the homepage
+        One for the "Nos réalisations" page or contact page
+
+    Social Media Buttons:
+        Buttons for Facebook and Instagram
+        Located on the right side of the page
+
+    Development Process:
+        Figma to create wireframe of the page
+        Export to HTML/CSS when the design is approved
+        Files will be sent to GitHub, excluding WordPress and Oxygen installations
