@@ -1,8 +1,8 @@
-.nos-realisation,
-.nos-realisation * {
+.contact,
+.contact * {
   box-sizing: border-box;
 }
-.nos-realisation {
+.contact {
   background: #ffffff;
   height: 1160px;
   position: relative;
@@ -153,11 +153,48 @@
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
+.contact-kayz-digital {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 469px;
+  top: 186px;
+  width: 503px;
+  height: 59px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-kayz-digital-span {
+  color: #000000;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 700;
+}
+.contact-kayz-digital-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+}
+.contact-kayz-digital-span3 {
+  color: #000000;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 700;
+}
 .navigation {
   background: #ffffff;
-  width: 1440px;
   height: 164px;
   position: absolute;
+  right: 0px;
   left: 0px;
   top: 0px;
   overflow: hidden;
@@ -184,7 +221,7 @@
   align-items: center;
   justify-content: flex-start;
 }
-.contact {
+.contact2 {
   color: #000000;
   text-align: left;
   font-family: var(--body-text-font-family, "Inter-Medium", sans-serif);
@@ -210,17 +247,145 @@
   align-items: center;
   justify-content: flex-start;
 }
-.nos-realisations {
-  color: #000000;
-  text-align: left;
+.telephone {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #9297ff;
+  width: 624.95px;
+  height: 594px;
+  position: absolute;
+  left: 80px;
+  top: 267px;
+}
+.numero-de-telephone {
+  color: #ffffff;
+  text-align: center;
   font-family: "Inter-Bold", sans-serif;
-  font-size: 40px;
+  font-size: 20px;
   line-height: 150%;
   font-weight: 700;
   position: absolute;
-  left: 558px;
-  top: 119px;
+  left: 230.5px;
+  top: 697px;
+  width: 322.51px;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: center;
+}
+.rapide-et-efficace {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 300;
+  position: absolute;
+  left: 168.87px;
+  top: 646px;
+  width: 447.21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contactez-nous-par-telephone {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+  position: absolute;
+  left: 151.67px;
+  top: 512px;
+  width: 481.61px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.phone {
+  width: 212px;
+  height: 212px;
+  position: absolute;
+  left: 286px;
+  top: 290px;
+  object-fit: cover;
+}
+.formulaire {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  background: #9297ff;
+  width: 624.95px;
+  height: 594px;
+  position: absolute;
+  left: 734.95px;
+  top: 267px;
+}
+.envoyez-nous-un-mail-nous-vous-recontacterons-dans-les-meilleurs-delais {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 300;
+  position: absolute;
+  left: 823.82px;
+  top: 616px;
+  width: 447.21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.formulaire-de-contact {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 600;
+  position: absolute;
+  left: 806.62px;
+  top: 512px;
+  width: 481.61px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-4 {
+  background: #000000;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  position: absolute;
+  left: 947.9px;
+  top: 722px;
+}
+.contact3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.email {
+  width: 212px;
+  height: 212px;
+  position: absolute;
+  left: 941.9px;
+  top: 290px;
+  object-fit: cover;
+  aspect-ratio: 1;
 }
